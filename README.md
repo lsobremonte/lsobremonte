@@ -1,4 +1,11 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- - ⚡ Fun fact: ...
+
+https://portal.azure.com
+
+Link to [site name]https://portal.azure.com
 
 <!--
 **lsobremonte/lsobremonte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
