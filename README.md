@@ -34,7 +34,7 @@ When you know exactly when the loop is going to stop
 
 
 ## Examples
-# This for loop will print each item in the list
+### This for loop will print each item in the list
 ```python
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
