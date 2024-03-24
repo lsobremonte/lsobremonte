@@ -21,3 +21,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Definition
+When you know exactly when the loop is going to stop
+
+![[for loop concept 02.png]]
+
+### Use
+-   Printing the elements of a list
+-   Calculating the sum of a list of numbers
+-   Counting the number of occurrences of a specific character in a string
+
+
+## Examples
+```python
+# This for loop will print each item in the list
+```python
+fruits = ["apple", "banana", "cherry"]
+for fruit in fruits:
+    print(fruit)
+```
+
